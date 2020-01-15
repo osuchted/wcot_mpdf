@@ -1,0 +1,21 @@
+h1, h2, h3, p, ul, li
+        {
+            font-family: Arial;
+        }
+        h1 
+        {
+            color:#987654;
+        }
+        h2, h3
+        {
+             color:#456789;
+        }
+        p
+        {
+            font-style:italic;
+        }
+	img 
+	{
+	float:right;
+	}
+	
