@@ -12,3 +12,5 @@ mPDF allows you to add “PDF functionality” such as:
 * Watermarks
 * Setting open options
 * Creating PDF forms
+
+install mPDF from [Github](https://github.com/mpdf/mpdf)
